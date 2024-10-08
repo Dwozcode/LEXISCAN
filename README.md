@@ -61,14 +61,6 @@ Feedback System: Provides personalized feedback based on assessments to help use
 
 ![WhatsApp Image 2024-04-21 at 8 55 55 AM](https://github.com/NishuSharma18/LexiScan/assets/93839989/9f523d02-013a-4f6f-a320-a6d9a411ea7a)
 
-## Contributors:
-
-Team Name: दोबारा36GhanteKarenge
-
-* [Kirti Kumar](https://github.com/KIRTIKUMARKK21)
-* [Nishu Sharma](https://github.com/NishuSharma18)
-* [Sambhav Jain](https://github.com/samjain233)
-* [Utkarsh Jha](https://github.com/utkarsh1236)
 
 
 ### Made at:
